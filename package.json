@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jsdoc": "^3.5.5"
+    "jsdoc": "^3.6.11"
   }
 }
